@@ -2,6 +2,7 @@
 
 In this project, we have used various Natural language processing techniques with LSTM model to classify fake news articles using Tensorflow and Sci-kit libraries from python. 
 
+Download dataset from kaggle https://www.kaggle.com/competitions/fake-news/data?select=train.csv
 
 # Table of contents
 
